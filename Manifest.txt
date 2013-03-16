@@ -1,0 +1,9 @@
+Gemfile
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/fruitgen
+lib/fruitgen.rb
+spec/fruitgen_spec.rb
+spec/spec_helper.rb
