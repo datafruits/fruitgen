@@ -5,7 +5,7 @@
 ## DESCRIPTION:
 
 a library for generating these:
-:apple: :green_apple: :tangerine: :lemon: :cherries: :grapes: :watermelon: :strawberry: :peach: :melon: :banana: :tomato:
+:apple: :pineapple: :green_apple: :tangerine: :lemon: :cherries: :grapes: :watermelon: :strawberry: :peach: :melon: :banana: :tomato:
 
 yeah, tomatoes are fruits.
 
